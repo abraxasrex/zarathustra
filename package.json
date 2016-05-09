@@ -1,0 +1,23 @@
+{
+  "name": "zarathustra",
+  "version": "1.0.0",
+  "description": "an audio software for node",
+  "main": "zarathustra.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraxasrex/zarathustra.git"
+  },
+  "keywords": [
+    "audio",
+    "node"
+  ],
+  "author": "jona reasor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraxasrex/zarathustra/issues"
+  },
+  "homepage": "https://github.com/abraxasrex/zarathustra#readme"
+}
