@@ -1,7 +1,7 @@
 {
   "name": "zarathustra",
   "version": "1.0.0",
-  "description": "an audio software for node",
+  "description": "an audio software GUI for node, built on flocking.js",
   "main": "zarathustra.js",
   "scripts": {
     "test": "node server.js"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "audio",
-    "node"
+    "node",
+    "flocking.js"
   ],
   "author": "jona reasor",
   "license": "ISC",
